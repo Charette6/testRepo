@@ -1,4 +1,4 @@
 package com.company;
 
-public class Teacher {
+public class Teacher extends Person {
 }
